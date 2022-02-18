@@ -1,3 +1,22 @@
 <?xml version="1.0" encoding="UTF-8">
 <root>
-
+	<title>Skills</title>
+    <My hard skills>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</My hard skills>
+    <My hard skills>Что такое клиент-серверная архитектура</My hard skills>
+    <My hard skills>HTTP Методы запросов на сервер</My hard skills>
+    <My hard skills>Коды ответов HTTP сервера</My hard skills>
+    <My hard skills>Что такое JSON, XML. Их структура</My hard skills>
+    <My hard skills>Тестирование API через Postman</My hard skills>
+    <My hard skills>Снятие и чтение логов c внешнего сервера</My hard skills>
+    <My hard skills>Снифинг http web трафика через Charles и Fiddler</My hard skills>
+    <My hard skills>Dev Tools веб браузеров (Google Chrome, FireFox)</My hard skills>
+    <My hard skills>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</My hard skills>
+    <My hard skills>Мобильное тестирование</My hard skills>
+    <My hard skills>Особенность iOS, Android, гайдлайны</My hard skills>
+    <My hard skills>Сборка Android приложений на Android Studio</My hard skills>
+    <My hard skills>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</My hard skills>
+    <My hard skills>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</My hard skills>
+    <My hard skills>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</My hard skills>
+    <My hard skills>Нагрузочное тестирование в Jmeter</My hard skills>
+    <My hard skills>Методология разработки Scrum</My hard skills>
+</root>

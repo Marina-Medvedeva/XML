@@ -1,0 +1,12 @@
+preferences.xml
+<?xml version="1.0" encoding="UTF-8">
+<root>
+	<about ="me">
+		<film>Москва слезам не верит</film>
+		<series>Доктор Хаус</series>
+		<food>Оливье</food>
+		<season>Весна</season>
+		<country wish="Посетить">Япония</country>
+	</about>
+</root>
+
